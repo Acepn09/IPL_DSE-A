@@ -11,4 +11,4 @@ class Car implements VehicleInterface, DoorInterface {
     @Override
     public void openDoors() {
     }
-    }
+}
